@@ -7,7 +7,7 @@ import urllib.request
 import pprint
 import hashlib
 
-VT_API_KEY = '670d4166fcb54c44b6b3f2f0c8b61c121421a6c5656f781d8b0f87387d604767'
+VT_API_KEY = '<Give your VT API Key>'
 VT_BASE_URL = 'https://www.virustotal.com/api/v3'
 
 HEADERS = {
